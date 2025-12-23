@@ -11,10 +11,10 @@ can contribute commitment, continuous learning, and a strong desire to grow, whi
 my technical and professional skills.
 
 - 🔭 I’m currently looking for work in the systems area
-- 🌱 I’m currently learning
-    ○ Python
-    ○ Flask
-    ○ Django
+- 🌱 I’m currently learning:
+  - Python
+  - Flask
+  - Django
 - 👯 I’m looking to collaborate on collaborative free software projects
 - 💬 Ask me about any of my repositories, I'm happy to help
 - 📫 Reach out to me at: simonmonaco86@gmail.com
