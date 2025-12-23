@@ -1,4 +1,6 @@
 ## Hi there, I'm Simón Mónaco 👋
+
+## 🙋 About Me
 I am a student of Systems and Software Development, with a strong interest in starting my
 professional career in the IT field, in roles such as frontend or backend developer, systems
 analyst, QA (tester), infrastructure, or related positions. My short-term goal is to enter the
