@@ -17,6 +17,7 @@ learning, and a strong desire to grow, while developing my technical and profess
   - Python
   - Flask
   - Django
+  - Apis
 - 👯 I’m looking to collaborate on collaborative free software projects
 - 💬 Ask me about any of my repositories, I'm happy to help
 - 📫 Reach out to me at: simonmonaco86@gmail.com
