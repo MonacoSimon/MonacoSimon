@@ -18,3 +18,9 @@ my technical and professional skills.
 - 👯 I’m looking to collaborate on collaborative free software projects
 - 💬 Ask me about any of my repositories, I'm happy to help
 - 📫 Reach out to me at: simonmonaco86@gmail.com
+
+## My Skills Include
+
+# Lenguages
+C# 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
