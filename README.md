@@ -50,5 +50,6 @@ learning, and a strong desire to grow, while developing my technical and profess
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonacoSimon&show_icons=true&theme=default)
+
 
