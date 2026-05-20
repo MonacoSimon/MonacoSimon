@@ -35,6 +35,12 @@ validation) · DynamoDB (execution history) · SQS (failure queue + DLQ)
 
 ---
 
+## 🌐 Portfolio
+
+→ https://monacosimon.github.io/interfaz-portfolio/
+
+---
+
 ## 🛠 QA Stack
 
 ### Testing Tools
@@ -68,6 +74,7 @@ validation) · DynamoDB (execution history) · SQS (failure queue + DLQ)
 |---|---|---|
 | [Coffee Cart](https://github.com/MonacoSimon/qa-repository-coffee-cart) | ⭐ Main | Jenkins · Docker · Cypress · Newman · JMeter · ZAP · AWS |
 | [Juice Shop](https://github.com/MonacoSimon/qa-repository-juice-shop) | Advanced | OWASP ZAP · Docker · Cypress |
+| [Product Store](https://github.com/MonacoSimon/qa-repository-product-store) | Advanced | Cypress · Postman · Newman · Docker |
 | [API Test Postman](https://github.com/MonacoSimon/qa-repository-api-test-postman) | Intermediate | Postman · Newman |
 | [Blaze Demo](https://github.com/MonacoSimon/qa-repository-blaze-demo) | Intermediate | Cypress · E2E |
 | [Space and Beyond](https://github.com/MonacoSimon/qa-repository-space-and-beyond) | Basic | Cypress · Manual QA |
