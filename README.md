@@ -1,50 +1,74 @@
-## Hi there, I'm Simón Mónaco 👋
+## Hi there, I'm Simón Monaco 👋
 
-## 🧑‍💻 About Me
-I am a student of Systems and Software Development, with a strong interest in starting my
-professional career in the IT field, in roles such as frontend or backend developer, systems
-analyst, QA (tester), infrastructure, or related positions.
+## 🧪 About Me
 
-My short-term goal is to enter the technology sector while continuing and completing my studies.
-In the long term, I aspire to keep growing professionally and obtain a Bachelor’s degree at the
-National University of La Plata, a personal project that deeply motivates me.
+I'm a QA Automation Engineer Junior based in Argentina, focused on building
+end-to-end testing pipelines that integrate modern tools, cloud infrastructure,
+and CI/CD automation.
 
-I am seeking my first work experience in IT, where I can contribute commitment, continuous
-learning, and a strong desire to grow, while developing my technical and professional skills.
+I recently graduated as a Systems Analysis Technician and as a University
+Technician in Free Software (ISFDyT 210). I'm looking for my first professional
+IT experience in QA Automation or QA Manual roles.
 
-- 🔭 I’m currently looking for work in the systems area
-- 🌱 I’m currently learning:
-  - Python
-  - Flask
-  - Django
-  - Apis
-- 👯 I’m looking to collaborate on collaborative free software projects
-- 💬 Ask me about any of my repositories, I'm happy to help
-- 📫 Reach out to me at: simonmonaco86@gmail.com
+- 🔭 Currently seeking work as QA Automation / QA Manual Engineer
+- 🌱 Continuously improving my automation and cloud testing skills
+- 🌐 English: C2 (EF SET 76/100) — comfortable in technical environments
+- 📫 Reach me at: simonmonaco2001@gmail.com
+- 📍 La Plata, Buenos Aires, Argentina
 
-## My Skills Include
+---
 
-### Lenguages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+## 🚀 Featured Project — Coffee Cart QA Pipeline
 
-### Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+Full QA pipeline for [coffee-cart.app](https://coffee-cart.app) integrating
+6 testing layers orchestrated by Jenkins, each suite isolated in its own
+Docker container, with AWS services simulated via LocalStack.
 
-### Other Tools and Technologies 
+**10-stage Jenkinsfile:** cleanup → Newman (API) → Cypress (E2E) →
+JMeter (performance) → OWASP ZAP (security) → LocalStack init →
+Cloud setup → S3 upload → SQS polling → teardown
+
+**AWS architecture:** S3 (reports by suite/date) · Lambda (PASS/FAIL
+validation) · DynamoDB (execution history) · SQS (failure queue + DLQ)
+
+→ [qa-repository-coffee-cart](https://github.com/MonacoSimon/qa-repository-coffee-cart)
+
+---
+
+## 🛠 QA Stack
+
+### Testing Tools
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Axe](https://img.shields.io/badge/Axe-663399?style=for-the-badge&logoColor=white)
+
+### CI/CD & Infrastructure
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+## 📂 QA Projects
+
+| Project | Level | Stack |
+|---|---|---|
+| [Coffee Cart](https://github.com/MonacoSimon/qa-repository-coffee-cart) | ⭐ Main | Jenkins · Docker · Cypress · Newman · JMeter · ZAP · AWS |
+| [Juice Shop](https://github.com/MonacoSimon/qa-repository-juice-shop) | Advanced | OWASP ZAP · Docker · Cypress |
+| [API Test Postman](https://github.com/MonacoSimon/qa-repository-api-test-postman) | Intermediate | Postman · Newman |
+| [Blaze Demo](https://github.com/MonacoSimon/qa-repository-blaze-demo) | Intermediate | Cypress · E2E |
+| [Space and Beyond](https://github.com/MonacoSimon/qa-repository-space-and-beyond) | Basic | Cypress · Manual QA |
+| [Web Testing Project](https://github.com/MonacoSimon/qa-web-testing-project) | Initial | Manual QA · Bug reports |
