@@ -35,6 +35,19 @@ validation) · DynamoDB (execution history) · SQS (failure queue + DLQ)
 
 ---
 
+## Knowledge Base & Study Notes
+
+Acceso al repositorio centralizado de documentación técnica, guías estructuradas, esquemas de validación y laboratorios prácticos desarrollados durante mi formación:
+
+### QA Study Notes Index
+* **Fundamentos y Gestión:** Aseguramiento de Calidad (QA Manual, ciclo PDCA, taxonomía de fallas) e Ingeniería de gestión y reportes en Jira Software.
+* **Automatización de Pruebas:** Frameworks E2E modernos en Cypress y Playwright, automatización e inyección CLI en Postman y Newman, y contratos JSON Schema con Python.
+* **Especializaciones e Infraestructura:** Ingeniería de rendimiento con Apache JMeter, análisis dinámico de vulnerabilidades (DAST) con OWASP ZAP, orquestación de contenedores en Docker, automatización Cloud local con AWS/LocalStack (Boto3) y pipelines de integración continua en Jenkins.
+
+→ [qa-study-notes (Live Dashboard)](https://monacosimon.github.io/qa-study-notes/)
+
+---
+
 ## 🌐 Portfolio
 
 → https://monacosimon.github.io/interfaz-portfolio/
